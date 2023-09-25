@@ -1,1 +1,149 @@
+<!DOCTYPE html>
 
+<html>
+  <head>
+		<link rel="stylesheet" link href="style.css"/>
+		
+    <title>Paul's Resume</title>
+  
+  </head>
+	<body>
+		<section id="contactInfo"> 
+			<imb src="">
+			<h1>Paul LeRoy</h1>
+				<h4> <a class="link" href="mailto:pleroy33@gmail.com"> pleroy33@gmail.com</a> | 651-270-3997 | 5340 Camden Ave N Brooklyn Center MN 55430</h4>
+		</section>
+
+		<section class="profile">
+			<h2>Profile</h2>
+				<p>Experienced retail sales manager, passionate about cultivating customer relationships, who is actively pursuing a transition back into a front-facing customer service oriented role after a decade as full-time manager and caregiver of a child with Cerebral Palsy.
+			</p>
+		</section>
+
+		<div class="jobsHeader">	
+			<h2>Consumer Directed Community Supports (CDCS)* for Mike LeRoy</h2>*CDCS is a grant program through the Minnesota Department of Human Services
+			<h3>2011-present</h3>
+				<p><strong>Manager of CDCS & Direct Support to Mike LeRoy</strong>
+				</p>
+		</div>
+     
+		<div class="jobsResponsibilities">
+		  <p>Responsibilities:</p>
+				<ul>
+					<li>Coordinate medical care between a primary physician and 12 pediatric specialty doctors at two
+						 hospitals, including scheduling frequent therapy appointments, arranging transportation,
+						 and facilitating communication between various health organizations.</li>
+					<li>Manage the procurement of medical equipment as identified in collaboration with
+						 doctors/therapists, through trialing, ordering, and paying through insurance.</li>
+					<li>Maintain supplies (medication delivery, supplemental food, and hygiene) for Mike’s daily
+						 needs through monthly ordering and keeping inventory of current supplies.</li>
+					<li>Give Mike opportunities outside the home for interaction with peers, arranging for him to
+						 participate in adaptive skiing, power soccer, epilepsy day camps, and more.</li>
+					<li>Provide daily cares as a Personal Care Assistant. Train incoming PCA's on procedures for cares.</li>
+				</ul>  
+		</div>  
+       
+		<div class="jobsAccomplishments">
+			<p>Accomplishments:</p>
+				<ul>
+					<li>Worked with Mike’s doctors through four major successful surgeries requiring
+								 pre-operative health benchmarks be met, and recoveries of up to 16 weeks.</li>
+					<li>Worked with Hennepin County and remodelers to adapt the home to Mike's changing needs through four major renovations—adding an elevator and exterior ramp, reconstructing entry doors, and adapting the bathroom to his physical needs.</li>
+					<li>Facilitated Mike driving a power wheelchair first with a head array, then joystick resulting in greater independence for him.</li>
+				</ul>
+		</div>
+  
+		<div class="jobsHeader">
+			<h2>Target Corporation <a href="https://www.target.com/sl/roseville-t1/2101" target="_blank" class="H2">(Roseville,MN store)<a/></h2>
+			<h3>2006–2013</h3>
+			<p><strong>Team Lead, Electronics & Entertainment</strong> (2006–2012), <strong>Team Lead, Deli</strong> (2012–2013)</p>
+
+		<div class="jobsResponsibilities">
+			<p>Responsibilities:</p>
+				<ul>
+					<li>Cultivated a customer service-first driven team; including taking part in interviews for hiring and promotions, delivering coaching and corrective action messages when performance didn’t meet company standards, writing and delivering 90 day and annual performance reviews, and identifying and mentoring team members for promotion.</li>
+					<li>Managed day-to-day department operations including writing a weekly schedule for a 15+ person team based on daily sales forecasts.</li>
+					<li>Led 10+ store/department walkthroughs each year with HQ senior merchants, buyers, analysts, special presentation event teams and vendors, as well as district and group leadership.</li>
+					<li>Was responsible for upholding customer service standards within electronics and entertainment, as measured by customer surveys and secret shopper programs.           </li>
+				</ul>
+		</div>
+	
+		<div class="jobAccomplishments">
+			<p>Accomplishments:</p>
+					<ul>
+						<li>Led the electronics and entertainment departments to annual sales increases of
+								between 3.5 and 20.5 percent.</li>
+						<li>Was consistently recognized by store and district leadership for service-driven leadership, including being designated a district Sales Floor Team Lead               training
+								resource for the Twin Cities area.</li>
+						<li>Co-designed and rolled out a Leader On Duty program for the team lead position after a management reorg in 2011.</li>
+					</ul>
+				</div>
+			</p>
+	 <div class="jobsHeader">  
+		 <h2><a href="https://en.wikipedia.org/wiki/Galyan%27s" target="_blank" class="H2">Galyan’s Trading Company (Woodbury,MN) </a></h2>
+		 <h3>2000-2006</h3>
+			 <p><strong>Manager, Service Shop</strong> (2003–2006), <strong>Manager, Ski/Marine/Bike</strong> (2002–2003) <strong>Assistant Manager, Ski/Marine/Bike</strong> (2000–2002)</p>
+		</div>
+	
+	 
+		<div class="jobsResponsibilities">
+			<p>Responsibilities:</p>
+				 <ul>
+					 <li>Worked with customers to assess their needs, educate them about available products,
+						 make recommendations based on their experience and goals, and close the sale while
+						 suggesting additional items to enhance their experience.</li>
+					 <li>Cultivated and maintained relationships with customers for repeat ski and bike business
+						 through follow up conversations in person and by phone.</li>
+					 <li>Hired, trained, and certified staff to assess and perform work on customer equipment,
+						 and coached employees on best sales practices.</li>
+					 <li>Built new bikes to be “ride ready,” tuned and repaired customer bikes, set up new skis
+						 with proper binding install and release settings, and tuned and repaired skis and
+						 snowboards.</li>
+					 <li>Cleaned shop at the end of each shift, maintained tools and workspace, and kept heavy
+					 machinery tuned and in good working order with scheduled yearly inspections.</li>
+			</ul>
+			</p>
+		</div>
+
+		<div class=volunteering>
+   		<h2>Volunteering</h2>
+     		<p><strong>Gillette Children's Hospital Family Advisory Council</strong>(2017-19)</p>
+     		<p><strong>30 Days of Biking</strong>(2015-19)</p>
+		</div>
+ 
+		<div id="education">
+			<h2>Education</h2>
+        <a href="https://www.csbsju.edu/" target="_blank" class="link"><strong> St. John's University, Collegeville MN</strong></a>(1996-1998) <br><br>
+        <a href="https://en.wikipedia.org/wiki/Central_High_School_(Duluth,_Minnesota)" target="_blank" class="link"><strong> Central High School, Duluth MN</strong></a>(Graduated 1996)
+	</body>
+
+	<footer>
+		<p>Paul LeRoy 2023</p>
+  </footer>
+</html>
+ 
+
+		 
+   
+   
+   
+
+
+
+         
+    
+  
+
+
+  
+  
+
+     
+  
+         
+    
+
+  
+
+</body>
+</html>
